@@ -3,7 +3,6 @@ This project is done by a group of four amateurs (JK2) who are new to data scien
 
 No. | File Description | Filename
 --- | ---------------- | --------
-1. | Dataset | foreveralone.csv
-2. | Code for common pre-processing | ITD214_combined.ipynb
-3. | Code for clustering model | Demographics.ipynb
---- | ---------------- | --------
+1  | Dataset | foreveralone.csv
+2  | Code for common pre-processing | ITD214_combined.ipynb
+3  | Code for clustering model | Demographics.ipynb

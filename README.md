@@ -6,3 +6,5 @@ No. | File Description | Filename
 1  | Dataset | foreveralone.csv
 2  | Code for common pre-processing | ITD214_combined.ipynb
 3  | Code for clustering model | Demographics.ipynb
+
+Report can be found in the link - https://meecatmeow.github.io/2024/08/01/applied-data-science-project.html
